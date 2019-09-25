@@ -1,0 +1,2 @@
+# softwaredesign201911yamamoto
+SoftwareDesign2019 11月号のサンプルコードです
